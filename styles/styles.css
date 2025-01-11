@@ -119,6 +119,7 @@
 .head-img {
   width: 408;
   height: 306;
+  border-radius: 10px;
 }
 
 .news1 {
@@ -140,7 +141,6 @@
   font-size: 18px;
   border-radius: 5px;
   box-shadow: none;
-  margin: 24px 0px 32px 32px;
   background-color: #006a50;
   color: #ffffff;
 }
@@ -154,4 +154,17 @@
 .DT {
   display: flex;
   gap: 12px;
+}
+
+.about {
+  margin: 80px 160px 0px 160px;
+  background-image: url("../assets/quote-bg.png");
+  background-repeat: no-repeat;
+  border-image-width: 64px;
+}
+
+.dr-text {
+  color: rgba(14, 14, 14, 0.8);
+  font-size: 20px;
+  font-weight: 600;
 }
