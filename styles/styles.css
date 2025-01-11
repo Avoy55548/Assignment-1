@@ -248,3 +248,24 @@
   background-color: #006a50;
   color: #ffffff;
 }
+
+.ending {
+  margin-top: 80px;
+  text-align: center;
+}
+
+.end-title {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.social {
+  display: flex;
+  gap: 23px;
+  justify-content: center;
+}
+
+.icon {
+  width: 24px;
+  height: 24px;
+}
