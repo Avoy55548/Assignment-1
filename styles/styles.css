@@ -130,7 +130,7 @@
 .news-contain {
   flex: none;
   order: 0;
-  /* align-self: stretch; */
+  align-self: stretch;
   flex-grow: 0;
   margin: 0px 32px;
 }
