@@ -161,6 +161,9 @@
   background-image: url("../assets/quote-bg.png");
   background-repeat: no-repeat;
   border-image-width: 64px;
+  border-radius: 10px;
+  border: 1px solid;
+  border-color: rgba(14, 14, 14, 0.14);
 }
 
 .dr-text {
@@ -203,6 +206,41 @@
 .dnt-btn {
   justify-content: center;
   width: 151px;
+  height: 56px;
+  font-size: 18px;
+  border-radius: 5px;
+  box-shadow: none;
+  background-color: #006a50;
+  color: #ffffff;
+}
+
+/* footer */
+
+.subscribe {
+  margin: 80px 160px 0px 160px;
+  padding: 80px 265px;
+  text-align: center;
+  background-color: rgba(198, 228, 214, 1);
+  border-radius: 10px;
+}
+
+.sub-head {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.input-email {
+  display: flex;
+  justify-content: center;
+}
+
+.email {
+  width: 600px;
+  height: 55px;
+  border-radius: 7px;
+}
+.sub-btn {
+  width: 150px;
   height: 56px;
   font-size: 18px;
   border-radius: 5px;
