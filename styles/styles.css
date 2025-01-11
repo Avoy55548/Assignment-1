@@ -102,6 +102,7 @@
 .skill1{
     background-color: rgba(84, 144, 245, 0.2);
     border-radius: 10px;
+    
 }
 .skill2{
     background-color: rgba(198, 228, 214, 1);
@@ -110,4 +111,8 @@
 .skill3{
     background-color: rgba(255, 194, 57, 1);
     border-radius: 10px;
+}
+
+.skill-title{
+    margin: 24px 32px 12px 32px;
 }
