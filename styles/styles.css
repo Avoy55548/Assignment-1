@@ -65,6 +65,7 @@
 .vision-text{
     font-size: 16px;
     font-weight: normal;
+    color: rgba(14, 14, 14, 0.7);
 
 }
 
@@ -115,4 +116,11 @@
 
 .skill-title{
     margin: 24px 32px 12px 32px;
+}
+
+
+/* news box */
+
+.recent-news{
+    margin:  80px 160px 0px 160px;
 }
